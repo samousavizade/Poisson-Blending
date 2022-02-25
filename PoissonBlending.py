@@ -255,7 +255,7 @@ def main():
     second_window_name = 'Move polygon to create mask (press c to continue)'
     delta, moved_polygon = PolygonMover(target, filled_polygon, second_window_name).get_moved_polygon()
     print('polygon moved')
-
+    
     # blend moved polygon and target
     print('blending started:')
     poisson_blend_result = PoisonBlender(source,
