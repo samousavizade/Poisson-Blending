@@ -1,3 +1,10 @@
+## Dependencies
+
+- Opencv `cv2`
+- Matplotlib `matplotlib`
+- Numpy `numpy`
+- SciPy `scipy`
+
 ## Project Definition
 
 In this project, with the help of **Solving Poisson Equation With Dirichlet Boundary Conditions By Numerical Solutions**, part of **Source** image
